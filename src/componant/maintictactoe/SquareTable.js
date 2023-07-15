@@ -222,7 +222,7 @@ const handleclick = (a, b) => {
     <>
       <div className='MainGamepage'>
       <span>
-        <h1>Square Table</h1>
+        <h1>Play With player</h1>
         <p>row</p>
         <input
           type="number"
