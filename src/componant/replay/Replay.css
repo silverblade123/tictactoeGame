@@ -1,0 +1,16 @@
+.scroll-container {
+    height: 70vh; /* Adjust the height as per your needs */
+    width: 95%;
+    overflow: scroll;
+  }
+
+.ReplayContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.RepTabG{
+    width: 80px;
+  height: 80px;
+  font-size: 70px;
+}

@@ -1,10 +1,15 @@
 .App {
   text-align: center;
+  background-color: aquamarine !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+  background-color: aquamarine !important;
+}
+
+
+.selectButton{
+  margin: 5px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
