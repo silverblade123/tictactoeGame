@@ -260,7 +260,7 @@ function BotTable() {
     <>
       <div className='MainGamepage'>
       <span>
-        <h1>Square Table</h1>
+        <h1>Play with bot</h1>
         <p>row</p>
         <input
           type="number"
